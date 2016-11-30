@@ -1,0 +1,9 @@
+nguage: node_js
+node_js:
+    - '0.10'
+deploy:
+      provider: npm
+        sudo: false
+        email: romanornr@gmail.com
+        api_key:
+            //
